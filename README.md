@@ -11,7 +11,7 @@ The login credentials are mentioned in the readme.txt file
 
 References:
 
-1.Title: SynchronizerTokenPattern
-2.Author: Dimuthu Yasas
-3.Date: 2018
-4.Availability: https://github.com/dimuthuYasasViduranga/SynchronizerTokenPattern.git
+Title: SynchronizerTokenPattern
+Author: Dimuthu Yasas
+Date: 2018
+Availability: https://github.com/dimuthuYasasViduranga/SynchronizerTokenPattern.git
