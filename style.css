@@ -1,0 +1,93 @@
+h1{
+   color:white;
+   margin-top: 70px;
+   margin-bottom: -40px;
+ font-family: "calibri light"; 
+   font-size:40px; 
+   
+}
+
+h2{
+ color:white;
+ font-weight:bold;
+ font-family: "calibri light"; 
+   font-size:20px;
+   margin-left:-600px; 
+
+}
+body{
+   background-color: plum ;
+   
+}
+
+.login-form {
+  
+    position: relative;
+    height: 300px;
+    width: 600px;
+    background-color: #8A28E2;
+    position: absolute;
+    float:left;
+    margin-top:150px;
+    margin-left:350px;
+
+   
+}
+.login-form form {
+    position: relative;
+    height: 300px;
+    width: 600px;
+    float: left;
+    margin-top:10px;
+    margin-left:200px;
+    padding-top: 20px;
+
+}
+.form-control, .btn {
+   min-height: 40px;
+   border-radius: 3px;
+}
+
+label{
+   margin-left:-45px; 
+   color:white;
+   font-weight:bold;
+   font-family : "arial";
+   font-size:15px;
+
+}
+
+#ssd-username{
+   margin-left : -45px;
+   width: 300px;
+   height :10px;
+
+}
+
+
+#ssd-password{
+   margin-left : -45px;
+   width: 300px;
+   height :10px;
+
+}
+.btn {        
+ 
+   font-weight: bold;
+   background-color : #27AEE3;
+   height:30px;
+   width:100px;
+   padding:5px;
+   font-size:14px;
+   margin-left: -45px;
+   margin-top : 20px;
+}
+
+.textArea{
+   height: 150px;
+   width:400px;
+   margin-left:-83px;
+   margin-top: 10px;
+}
+
+
